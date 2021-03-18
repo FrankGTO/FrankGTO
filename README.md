@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FrankGTO
+- 👀 I’m interested in making simple applications for outdoor activities
+- 🌱 I've decided to share this app in order to invite contributors improving it while keeping it simple (in terms of scope and energy needs)
