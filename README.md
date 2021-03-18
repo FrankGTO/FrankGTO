@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @FrankGTO
 - 👀 I’m interested in making simple applications for outdoor activities
 - 🌱 I've decided to share this app in order to invite contributors improving it while keeping it simple (in terms of scope and energy needs)
+- I use TODO markers in the source when improvement ideas come to me, if you wish to contribute to this, you're welcome and I'll be happy to merge your work
